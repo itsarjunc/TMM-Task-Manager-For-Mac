@@ -1,0 +1,11 @@
+# Xcode / macOS
+.DS_Store
+*.swp
+*~
+
+# Build artifacts & packages
+*.app/
+dmg_staging/
+.build/
+task-monitor-swift-cache/
+/tmp/
